@@ -169,8 +169,8 @@
 		D6CF39C413D3F018000C7901 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				D6F9822514071DB6000E5022 /* LoadableCategory.h */,
 				D687620113D40DD30057A375 /* Filters */,
+				D6F9822514071DB6000E5022 /* LoadableCategory.h */,
 				D6CF39C513D3F02F000C7901 /* Shelley.h */,
 				D6CF39C613D3F02F000C7901 /* Shelley.m */,
 				D68761F013D409160057A375 /* SYParser.h */,
